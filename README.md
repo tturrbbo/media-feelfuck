@@ -35,27 +35,34 @@ https://storyboarder.ai/
    -  Финальная версия
 
 ## Киношная картинка, как и, в целом, хороший канал
+```bash
 https://youtube.com/@khs_yt?si=zZZeXTuRaP5HP5Qh
 
 https://youtu.be/GO9Y-XIbHT4?si=MXGRDnRES1x0C5J_
 
 https://youtu.be/4rrhHcbGe6o?si=zTz12whul08h3XO5
+```
 ## Отдельно хочу отметить видео про нейронку
+```bash
 https://youtu.be/nGt5ODL99js?si=1EBBYRnoVCfGcPXr
-
+```
 ## Цветокор в давинчи
 Базовое видео
+```bash
 https://youtu.be/2PsUZ8A7KXs?si=6QDjvz-FdZDISD6p
-
+```
 Полное видео
+```bash
 https://youtu.be/aDWbuDHcm4w?si=fENd7sfimo4I645l
-
+```
 ## Интервью
+```bash
 https://www.youtube.com/watch?v=BfwCqD4TRq0&ab_channel=%D0%A1%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D0%BA%D0%B0%D0%BA%D0%BC%D0%BE%D0%B3%D1%83
-
+```
 ## Полезные тг каналы/паблики 
+```bash
 https://t.me/x_sonchy
-
+```
 ## Дополнительно
 
 
